@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "demodeloy"
+    }
+  },
+  "defaultProject": "demodeloy",
+  "cli": {
+    "analytics": "9bd09197-d0a7-419b-8b6d-f25e072aa47d"
+  }
 }
